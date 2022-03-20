@@ -1,0 +1,25 @@
+.blog-list-panel {
+	margin: 10px 110px;
+}
+
+.blog-card {
+	max-width: 30vw;
+	display: flex;
+	justify-content: space-between;
+}
+
+.blog-card-left {
+	width: 25vw;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+.blog-card-right {
+	display: flex;
+}
+
+.blog-img {
+	width: 150px;
+	height: 100px;
+}

@@ -1,0 +1,39 @@
+.trendingBlogsPanel {
+	margin: 50px 110px;
+}
+.trendingBlogList {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	list-style: none;
+	gap: 20px;
+}
+
+.trendingBlogCard {
+	max-width: 20vw;
+	height: 15vh;
+	text-overflow: ellipsis;
+}
+
+.author-name {
+	font-size: 14px;
+}
+
+.author-info {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+.author-profile-img {
+	border-radius: 50%;
+	object-fit: cover;
+}
+
+.blog-title {
+	margin-bottom: 3px;
+	font-size: 13px;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+	max-height: 40px;
+	max-width: 100%;
+}
