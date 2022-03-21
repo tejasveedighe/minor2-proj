@@ -4,4 +4,6 @@
 
 .vl {
     border: 2px solid black;
+    margin-left: 20vw;
+    max-width: 20vh;
 }
