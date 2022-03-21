@@ -1,0 +1,7 @@
+.body-content {
+    display: flex;
+}
+
+.vl {
+    border: 2px solid black;
+}

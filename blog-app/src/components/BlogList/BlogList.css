@@ -1,25 +1,38 @@
 .blog-list-panel {
-	margin: 10px 110px;
+    margin: 10px 110px;
 }
 
 .blog-card {
-	max-width: 30vw;
-	display: flex;
-	justify-content: space-between;
+    max-width: 30vw;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid;
 }
 
 .blog-card-left {
-	width: 25vw;
-	text-overflow: ellipsis;
-	overflow: hidden;
-	white-space: nowrap;
+    width: 25vw;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
 }
 
 .blog-card-right {
-	display: flex;
+    display: flex;
 }
 
 .blog-img {
-	width: 150px;
-	height: 100px;
+    width: 150px;
+    height: 100px;
+}
+
+.save {
+    width: 30px;
+    height: 30px;
+    margin-top: 10%;
+}
+
+.blog-list-item {
+    list-style: none;
+    margin-top: 10px;
+    cursor: pointer;
 }
