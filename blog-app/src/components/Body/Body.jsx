@@ -1,11 +1,16 @@
 import "./Body.css";
 
-export default function Body({ BlogList, Aside }) {
+const Body = ({ BlogList, Aside, TrendingBlogs }) => {
     return (
-        <div className="body-content">
-            <BlogList />
-            <div className="vl"></div>
-            <Aside />
+        <div>
+            <TrendingBlogs />
+            <div className="body-content">
+                <BlogList />
+                <div className="vl"></div>
+                <Aside />
+            </div>
         </div>
     );
-}
+};
+
+export default Body;

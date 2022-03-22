@@ -1,0 +1,7 @@
+.about {
+    display: grid;
+    place-items: center;
+    border: 1px solid;
+    width: 30vw;
+    margin: 10vh auto;
+}

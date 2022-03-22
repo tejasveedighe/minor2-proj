@@ -52,7 +52,7 @@ const Nav = () => {
         </div>
     );
 };
-
-export default function Header() {
+const Header = () => {
     return <Nav />;
-}
+};
+export default Header;

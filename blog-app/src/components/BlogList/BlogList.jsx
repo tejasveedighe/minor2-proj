@@ -179,7 +179,7 @@ const BlogCard = ({ blog }) => {
     );
 };
 
-export function BlogList() {
+function BlogList() {
     return (
         <div className="blog-list-panel">
             <h5>RECENTLY UPLOADED ON BLOGHUB</h5>
@@ -193,3 +193,5 @@ export function BlogList() {
         </div>
     );
 }
+
+export default BlogList;

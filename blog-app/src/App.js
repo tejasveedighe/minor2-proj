@@ -1,7 +1,10 @@
 import Header from "./components/Header/Header";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import About from "./pages/About";
-
+import About from "./pages/About/About";
+import Body from "./components/Body/Body";
+import BlogList from "./components/BlogList/BlogList";
+import TrendingBlogs from "./components/TrendingBlogs/TrendingBlogs";
+import Aside from "./components/Aside/Aside";
 const NotFound = () => {
     return (
         <div className="not-found">
@@ -14,11 +17,20 @@ function App() {
     return (
         <div>
             <BrowserRouter>
+                <Header />
                 <Routes>
-                    <Route path="/" element={<Header />}>
-                        <Route path="/about" element={<About />} />
-                        <Route path="*" element={<NotFound />} />
-                    </Route>
+                    <Route path="about" element={<About />} />
+                    <Route
+                        path="/"
+                        element={
+                            <Body
+                                BlogList={BlogList}
+                                Aside={Aside}
+                                TrendingBlogs={TrendingBlogs}
+                            />
+                        }
+                    />
+                    <Route path="*" element={<NotFound />} />
                 </Routes>
             </BrowserRouter>
         </div>

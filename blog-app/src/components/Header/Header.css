@@ -23,13 +23,12 @@ nav {
 .centerList {
     display: flex;
     justify-content: center;
-    list-style: none;
     font-size: 18px;
 }
 
 .centerListItem {
     margin-left: 40px;
-    cursor: pointer;
+    text-decoration: none;
 }
 
 .right {
@@ -39,7 +38,6 @@ nav {
 }
 
 .left {
-    cursor: pointer;
 }
 
 .profile {
@@ -47,7 +45,6 @@ nav {
     height: 42px;
     border-radius: 50%;
     object-fit: cover;
-    cursor: pointer;
 }
 
 .searchIcon {
