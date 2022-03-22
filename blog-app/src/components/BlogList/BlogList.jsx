@@ -145,6 +145,366 @@ const bloglist = [
         blog_img:
             "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
     },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
+    {
+        authorName: "Tejasvee Dighe",
+        profile: "https://img.icons8.com/ios-glyphs/30/000000/user--v1.png",
+        title: "Vladimir Putin Has Already Won, but Nobody wants to Admit It",
+        uploadData: "Dec 31",
+        tags: "Ukraine",
+        blog_img:
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+    },
 ];
 
 const BlogCard = ({ blog }) => {
