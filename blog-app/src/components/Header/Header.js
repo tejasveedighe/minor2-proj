@@ -52,7 +52,9 @@ const Nav = () => {
         </div>
     );
 };
+
 const Header = () => {
     return <Nav />;
 };
+
 export default Header;

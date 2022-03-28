@@ -13,35 +13,47 @@ app.use(express.json());
 app.use(cors());
 
 mongoose.connect(
-    "mongodb+srv://tejasvee:tejasvee123@cluster0.upghg.mongodb.net/users?retryWrites=true&w=majority"
+	"mongodb+srv://tejasvee:tejasvee123@cluster0.upghg.mongodb.net/users?retryWrites=true&w=majority"
 );
+// made by copiolot
+// make a get request to the server to get the data and console log it
+app.get("/", (req, res) => {
+	UserModel.find({}, (err, data) => {
+		if (err) {
+			console.log(err);
+		} else {
+			console.log(data);
+			res.send(data);
+		}
+	});
+});
 
 // GET REQUEST BRIDGE
 app.get("/getUsers", (req, res) => {
-    // to find the users from database and send the data back to the frontend
-    // working for users collection and not for user
-    UserModel.find({}, (err, result) => {
-        if (err) {
-            res.json(err);
-        } else {
-            res.json(result);
-        }
-    });
+	// to find the users from database and send the data back to the frontend
+	// working for users collection and not for user
+	UserModel.find({}, (err, result) => {
+		if (err) {
+			res.json(err);
+		} else {
+			res.json(result);
+		}
+	});
 });
 
 // POST REQUEST
 app.post("/createUser", async (req, res) => {
-    // the values are present in the body obj of req
-    // the value was added to new users collection in the users database dont know what happened wrong
-    const user = req.body;
-    const newUser = new UserModel(user);
-    await newUser.save();
+	// the values are present in the body obj of req
+	// the value was added to new users collection in the users database dont know what happened wrong
+	const user = req.body;
+	const newUser = new UserModel(user);
+	await newUser.save();
 
-    // sends the data to the front end in json format
-    res.json(user);
+	// sends the data to the front end in json format
+	res.json(user);
 });
 
 app.get("/", (req, res) => res.end("Hello"));
 app.listen(3001, () => {
-    console.log("Server running at 3001");
+	console.log("Server running at 3001");
 });

@@ -1,10 +1,13 @@
 import Header from "./components/Header/Header";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import About from "./pages/About/About";
+import Write from "./pages/Write/Write";
 import Body from "./components/Body/Body";
 import BlogList from "./components/BlogList/BlogList";
 import TrendingBlogs from "./components/TrendingBlogs/TrendingBlogs";
 import Aside from "./components/Aside/Aside";
+import "./App.css";
+
 const NotFound = () => {
     return (
         <div className="not-found">
@@ -30,6 +33,7 @@ function App() {
                             />
                         }
                     />
+                    <Route path="write" element={<Write />} />
                     <Route path="*" element={<NotFound />} />
                 </Routes>
             </BrowserRouter>
